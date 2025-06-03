@@ -16,7 +16,7 @@ Encodes and decodes mazes hidden in images using steganography and breadth-first
 Analyzes and visualizes UBC course data using a full-stack dashboard with search and filtering.  
 *React, Node.js, MongoDB*
 
-### [Digital Asset Manager Associated Engineering]
+### [Digital Asset Manager Associated Engineering](https://github.com/Mukuman/Associated-Engineering-DAM-Project)
 Worked in a team to develop a web-based image management system. Features include image uploads, tagging, EXIF/metadata handling, user-specific editing workspaces, and integration with Azure Blob Storage for finalized files.  
 *C#, ASP.NET Core, Azure SQL, Entity Framework, Blob Storage*
 
