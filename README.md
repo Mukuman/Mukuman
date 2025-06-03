@@ -28,10 +28,6 @@ Built a classification pipeline using logistic regression, random forest, and SV
 A typing game built with C++ and SDL2 where players race to retype sentences accurately within a time limit to earn points. Features a leaderboard, player roster management, and save/load functionality.  
 *C++, SDL2, JSON Persistence, GUI*
 
-### [Pet Adoption System](https://github.com/yourusername/pet-adoption-system)  
-A relational database model for managing pet adoptions, including potential adopters, staff, and appointment scheduling. Designed with ISA relationships to distinguish between user roles and support flexible queries.  
-*SQL, ER Modeling, Relational Design*
-
 ### [Pet Adoption System](https://github.com/Mukuman/Pet-Adoption-SQL-Project)  
 A relational database model for managing pet adoptions, including potential adopters, staff, and appointment scheduling. Designed with ISA relationships to distinguish between user roles and support flexible queries.  
 *SQL, ER Modeling, Relational Design*
