@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Mukund 👋
 
 I'm a Computer Science student at the University of British Columbia with a strong interest in AI, computer vision, and cloud infrastructure. I enjoy learning and developing new concepts and building practical tools that solve modern problems using anything from machine learning model deployment to full-stack web apps.
