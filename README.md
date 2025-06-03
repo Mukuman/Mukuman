@@ -54,7 +54,7 @@ A relational database model for managing pet adoptions, including potential adop
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mukund-patil-a346b426b/)
-- [Resume](https://www.overleaf.com/read/strwbptjdsxk#366293))
+- [Resume](https://www.overleaf.com/read/strwbptjdsxk#366293)
 
 ---
 
