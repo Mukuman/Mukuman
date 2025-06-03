@@ -8,21 +8,33 @@ I’ve worked with real-time inference systems in agricultural robotics and coll
 
 ## 🚀 Projects
 
-### [Maze Treasure Map](https://github.com/yourusername/maze-treasure-map)  
+### [Maze Treasure Map](https://github.com/Mukuman/Maze-Render-Traversal-CPP-)  
 Encodes and decodes mazes hidden in images using steganography and breadth-first search.  
 *C++, Image Processing, Custom Data Structures*
 
-### [InsightUBC](https://github.com/yourusername/insightubc)  
+### [InsightUBC] 
 Analyzes and visualizes UBC course data using a full-stack dashboard with search and filtering.  
 *React, Node.js, MongoDB*
 
-### [Digital Asset Manager (Group Project)](https://github.com/yourusername/dam)  
+### [Digital Asset Manager Associated Engineering]
 Worked in a team to develop a web-based image management system. Features include image uploads, tagging, EXIF/metadata handling, user-specific editing workspaces, and integration with Azure Blob Storage for finalized files.  
 *C#, ASP.NET Core, Azure SQL, Entity Framework, Blob Storage*
 
-### [Credit Card Default Classifier](https://github.com/yourusername/credit-default-ml)  
+### [Credit Card Default Classifier](https://github.com/Mukuman/Machine-Learning-Classification-)  
 Built a classification pipeline using logistic regression, random forest, and SVM to predict default risk on credit card accounts.  
 *Python, Scikit-learn, Pandas, Matplotlib*
+
+### [SwiftKeys](https://github.com/Mukuman/SwiftKeys)  
+A typing game built with C++ and SDL2 where players race to retype sentences accurately within a time limit to earn points. Features a leaderboard, player roster management, and save/load functionality.  
+*C++, SDL2, JSON Persistence, GUI*
+
+### [Pet Adoption System](https://github.com/yourusername/pet-adoption-system)  
+A relational database model for managing pet adoptions, including potential adopters, staff, and appointment scheduling. Designed with ISA relationships to distinguish between user roles and support flexible queries.  
+*SQL, ER Modeling, Relational Design*
+
+### [Pet Adoption System](https://github.com/Mukuman/Pet-Adoption-SQL-Project)  
+A relational database model for managing pet adoptions, including potential adopters, staff, and appointment scheduling. Designed with ISA relationships to distinguish between user roles and support flexible queries.  
+*SQL, ER Modeling, Relational Design*
 
 ---
 
